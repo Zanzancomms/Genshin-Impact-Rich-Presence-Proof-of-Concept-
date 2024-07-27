@@ -6,23 +6,23 @@ Make sure these coordinates are set up properly before running the script.
 See README.md on how to determine coordinates.
 """
 
-USERNAME = "ZANdewanai"
+USERNAME = "pixelvted"
 """
 For detecting when MC is being played. 
 """
 
-MC_AETHER = True
+MC_AETHER = False
 """
 If main character is Aether, set this to True.
 If main character is Lumine, set this to False.
 """
 
-WANDERER_NAME = "Wanderer"
+WANDERER_NAME = "Yuukou"
 """
 For detecting when Wanderer is active. (Spoiler: You can rename wanderer)
 """
 
-GAME_RESOLUTION = 1440
+GAME_RESOLUTION = 1080
 """
 The resolution you're running genshin at (number corresponds to the
 resolution height in pixels).
